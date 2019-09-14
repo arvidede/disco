@@ -2,6 +2,7 @@ export function startAudioStream(next) {
     navigator.mediaDevices
         .getUserMedia({ audio: true, video: false })
         .then(function(stream) {
+            const AudioContext = window.AudioContext || window.webkitAudioContext
             const audioContext = new AudioContext()
             const analyser = audioContext.createAnalyser()
             const microphone = audioContext.createMediaStreamSource(stream)
