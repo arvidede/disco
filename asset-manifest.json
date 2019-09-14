@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/disco/static/css/main.cfda8877.chunk.css",
+    "main.js": "/disco/static/js/main.2fb4a57f.chunk.js",
+    "main.js.map": "/disco/static/js/main.2fb4a57f.chunk.js.map",
+    "runtime~main.js": "/disco/static/js/runtime~main.7fe3f356.js",
+    "runtime~main.js.map": "/disco/static/js/runtime~main.7fe3f356.js.map",
+    "static/js/2.96c7d7de.chunk.js": "/disco/static/js/2.96c7d7de.chunk.js",
+    "static/js/2.96c7d7de.chunk.js.map": "/disco/static/js/2.96c7d7de.chunk.js.map",
+    "index.html": "/disco/index.html",
+    "precache-manifest.19a58c01a3198c3a43c526be56c1bb7d.js": "/disco/precache-manifest.19a58c01a3198c3a43c526be56c1bb7d.js",
+    "service-worker.js": "/disco/service-worker.js",
+    "static/css/main.cfda8877.chunk.css.map": "/disco/static/css/main.cfda8877.chunk.css.map"
+  }
+}
